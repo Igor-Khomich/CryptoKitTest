@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:ImagesCache/ImagesCache.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ImageCrypter/ImageCrypter.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CryptoDemo/CryptoDemo.xcodeproj">
+   </FileRef>
+</Workspace>
